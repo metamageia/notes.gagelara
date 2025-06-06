@@ -1,0 +1,1 @@
+Docker Compose is a tool for running multi-container applications on [[Docker]] defined using the Compose file format. It adheres to the approach to server and application deployment known as [[Infrastructure as Code (IaC)]]. 

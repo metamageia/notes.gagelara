@@ -1,0 +1,4 @@
+This is the core of my system. Based on a common [[Bullet Journal]] spread, this one card has cleaned up the overwhelming majority of my system complexity. It is a [[Calendar]], [[Habit Tracker]] and [[Habit Score Cards]], and [[Task Manager]] all in one. Extreme portability makes it effortless to keep at hand, and it takes a single glance to remember the entire landscape of the next few weeks - a whole month if you choose to carry two cards instead of the one. The weekly [[ToDo List]] on the back helps to keep recurring tasks at the top of mind while keeping my general list uncluttered. 
+
+---
+[[My Analog Productivity and PKM System]]

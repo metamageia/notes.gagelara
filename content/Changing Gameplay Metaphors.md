@@ -1,0 +1,4 @@
+Somewhat different than [[Koster's Taxonomy of Games|creating a reskin]], when you alter the underlying metaphor your game is designed on you are [[Creativity Through Context Replacement|dramatically changing the context]] of a given rules construct, opening up new [[Game Design Patterns]] and mechanical opportunities you might not otherwise use. The cliché example is taking the first person shooter construct and turning it into a photography game, opening up novel design space that would otherwise be out of place or introduce [[Ludonarrative Dissonance]]. 
+
+---
+[[Practical Creativity by Raph Koster, GDC 2014]]
