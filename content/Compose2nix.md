@@ -1,1 +1,0 @@
-A tool for automatically generating a [[NixOS]] configuration module from a [[Docker Compose]] YAML file by converting each service definition into an [[OCI Container]] configuration, making it easier to run Docker projects on NixOS. 

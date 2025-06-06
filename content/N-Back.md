@@ -1,1 +1,0 @@
-The n-back task is a process of continuous performance used as a [[Cognitive Assessment]] of [[Working Memory]] capacity. N-Back games are often used as a method for training working memory as well as [[Fluid Intelligence]]

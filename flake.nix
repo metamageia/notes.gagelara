@@ -18,7 +18,10 @@
           ];
           shellHook = ''
             echo "Welcome to the Quartz development environment!"
-            echo "Run 'npm install' to install dependencies."
+            echo "Run 'npm i' to install dependencies."
+            echo "Run 'npx quartz create' to init quartz."
+            echo "Run 'npx quartz build --serve' to build and test site."
+            echo "Run 'npx quartz sync --no-pull' to update GitHub pages."
           '';
         };
       });

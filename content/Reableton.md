@@ -1,1 +1,0 @@
-[Reableton](https://github.com/edkashinsky/reaper-reableton-scripts) is a collection of scripts utilizing [[SWS Extensions]] and installed with [[ReaPack]] that recreates some of the workflow and audio manipulation features of [[Ableton Live]] in [[Reaper]]
