@@ -1,1 +1,5 @@
 node_modules
+content/private/
+content/.trash/
+content/.obsidian/
+content/.stfolder/
