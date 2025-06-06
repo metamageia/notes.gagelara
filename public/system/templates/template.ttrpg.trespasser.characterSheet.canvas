@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"588a48d2bc2db54b","type":"text","text":"## **Armor**\n|        | Armor | Weight | Guard | Die | Effect |\n| ------ | ----- | ------ | ----- | --- | ------ |\n| Head   | ☐     | ☐      | ☐     | ☐   | ☐      |\n| Body   | ☐     | ☐      | ☐     | ☐   | ☐      |\n| Arms   | ☐     | ☐      | ☐     | ☐   | ☐      |\n| Legs   | ☐     | ☐      | ☐     | ☐   | ☐      |\n| Outer  | ☐     | ☐      | ☐     | ☐   | ☐      |\n| Shield | ☐     | ☐      | ☐     | ☐   | ☐      |\n## **Accessories**\n|        | Accessory | Effect |\n| ------ | --------- | ------ |\n| Ring   | ☐         | ☐      |\n| Amulet | ☐         | ☐      |\n","x":1495,"y":-110,"width":477,"height":817},
+		{"id":"5ed5118e2d5393d9","type":"text","text":"## **Weapons**\n|           | Weapon | Damage | Type | Effect |\n| --------- | ------ | ------ | ---- | ------ |\n| Main Hand | ☐      | ☐      | ☐    | ☐      |\n| Off Hand  | ☐      | ☐      | ☐    | ☐      |\n\n","x":1495,"y":-310,"width":480,"height":184},
+		{"id":"8a92a02299d9cef0","type":"text","text":"# **Health & Status**\n| Stat              | Value | Max |\n| ----------------- | ----- | --- |\n| **HP**            |       |     |\n| **Endurance**     |       |     |\n| **Recovery Dice** |       |     |\nStates:\n\n","x":1126,"y":-310,"width":360,"height":350},
+		{"id":"6ed84f72e5b5a02d","type":"text","text":"\n| **Speed**   |     |\n| ----------- | --- |\n| **Resolve** |     |\n| **Focus**   |     |\n","x":1126,"y":269,"width":360,"height":121},
+		{"id":"eca2cd3555bfc1d6","type":"text","text":"# **Attributes** \n\n| Attribute     | Score | Key |\n| ------------- | ----- | --- |\n| **Might**     |       |     |\n| **Agility**   |       |     |\n| **Intellect** |       |     |\n| **Spirit**    |       |     |\n\n---\n\n| **Skill Bonus** | +1  |\n| --------------- | --- |\n| **Skill Die**   | d6  |\n# **Skills**\n- ","x":865,"y":-310,"width":245,"height":700},
+		{"id":"ca7ba0f873e9f50f","type":"text","text":"\n| DENY | ALIGNMENT | AFFIRM |\n| ---- | --------- | ------ |\n| ☐☐☐  |           | ☐☐☐    |\n| ☐☐☐  |           | ☐☐☐    |\n","x":865,"y":-464,"width":292,"height":135},
+		{"id":"8dd38cce7f858a5b","type":"text","text":"| **SPARKS**  | canny  | quick | quiet | safe    | striking |\n| ----------- | ------ | ----- | ----- | ------- | -------- |\n| **SHADOWS** | costly | slow  | loud  | harmful | daunting |\n","x":1495,"y":-469,"width":477,"height":139},
+		{"id":"a43b836c2eb9bf22","type":"text","text":"# Features & Talents","x":355,"y":-464,"width":480,"height":619},
+		{"id":"fb518c6d855007b1","type":"text","text":"\n| **Initiative** |     |\n| -------------- | --- |\n| **Accuracy**   |     |\n| **Guard**      |     |\n| **Resist **    |     |\n| **Prevail **   |     |\n| **Tenacity**   |     |\n\n","x":1126,"y":50,"width":360,"height":210},
+		{"id":"b107210df51b4ff2","type":"text","text":"# **Inventory**\n| ☐      | ☐      | ☐      | ☐      | ☐      |\n| ------ | ------ | ------ | ------ | ------ |\n| ☐      | ☐      | ☐      | ☐      | ☐      |\n| (M +1) | (M +1) | (M +2) | (M +2) | (M +3) |\n| (M +3) | (M +4) | (M +4) | (M +5) | (M +5) |\n","x":865,"y":410,"width":621,"height":300},
+		{"id":"d651561facf01123","type":"text","text":"\n| LEVEL: | 1   |\n| ------ | --- |\n\n|     | Current | XP to Next |\n| --- | ------- | ---------- |\n| XP  | 0       | 20         |\n\n\n\n\n","x":1176,"y":-464,"width":310,"height":134},
+		{"id":"5d431d55d054f70d","type":"text","text":"# [[Character Name]]\n\n| **Name** |     | **Lineage** |     | **Past Life** |     |\n| -------- | --- | ----------- | --- | ------------- | --- |\n","x":865,"y":-610,"width":621,"height":126},
+		{"id":"36c8472800a08cfe","type":"text","text":"\n| Calling: |     |\n| -------- | --- |\n| Crafts:  |     |\n","x":1495,"y":-610,"width":220,"height":126},
+		{"id":"556ab075aad6885c","type":"text","text":"# Incantations","x":355,"y":189,"width":480,"height":518}
+	],
+	"edges":[]
+}

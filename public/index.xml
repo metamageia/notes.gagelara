@@ -6,65 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Morphological Analysis</title>
-    <link>https://quartz.jzhao.xyz/Morphological-Analysis</link>
-    <guid>https://quartz.jzhao.xyz/Morphological-Analysis</guid>
-    <description>A method for brainstorming creative solutions to complicated problems, first devised by astronomer Fritz Zwicky.</description>
-    <pubDate>Fri, 06 Jun 2025 01:52:04 GMT</pubDate>
+    <title>template.ttrpg.session</title>
+    <link>https://quartz.jzhao.xyz/system/templates/template.ttrpg.session</link>
+    <guid>https://quartz.jzhao.xyz/system/templates/template.ttrpg.session</guid>
+    <description>(Note: Delete this line template ) &lt;%tp.file.title%&gt; Session Summary Attendance Log .</description>
+    <pubDate>Fri, 06 Jun 2025 06:17:07 GMT</pubDate>
   </item><item>
-    <title>Nix User Repository (NUR)</title>
-    <link>https://quartz.jzhao.xyz/Nix-User-Repository-(NUR)</link>
-    <guid>https://quartz.jzhao.xyz/Nix-User-Repository-(NUR)</guid>
-    <description>The Nix User Repository is a registry of Nix community repos. Website: nur.nix-community.org/ Github: github.com/nix-community/NUR.</description>
-    <pubDate>Fri, 06 Jun 2025 01:52:04 GMT</pubDate>
+    <title>template.ttrpg.general</title>
+    <link>https://quartz.jzhao.xyz/system/templates/template.ttrpg.general</link>
+    <guid>https://quartz.jzhao.xyz/system/templates/template.ttrpg.general</guid>
+    <description>&lt;%tp.file.title%&gt;.</description>
+    <pubDate>Fri, 06 Jun 2025 06:17:07 GMT</pubDate>
   </item><item>
-    <title>Timeline Plugin</title>
-    <link>https://quartz.jzhao.xyz/Timeline-Plugin</link>
-    <guid>https://quartz.jzhao.xyz/Timeline-Plugin</guid>
-    <description>From the Timeline Plugin Github Repo: Build Amazing Timelines We recommend you use the snippet instead for footnotes and node links and use it with other plugins.</description>
-    <pubDate>Fri, 06 Jun 2025 01:52:04 GMT</pubDate>
+    <title>Adding Gameplay Verbs and Goals</title>
+    <link>https://quartz.jzhao.xyz/Adding-Gameplay-Verbs-and-Goals</link>
+    <guid>https://quartz.jzhao.xyz/Adding-Gameplay-Verbs-and-Goals</guid>
+    <description>Because most games are made of other games, they typically have multiple goals running at the same time.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
   </item><item>
-    <title>Vignette vs Compose</title>
-    <link>https://quartz.jzhao.xyz/Vignette-vs-Compose</link>
-    <guid>https://quartz.jzhao.xyz/Vignette-vs-Compose</guid>
-    <description>This PKMashup prompted some thoughts about WIP projects Compose RPG and Vignette RPG and the false dichotomy of Top Down and Bottom Up design.</description>
-    <pubDate>Fri, 06 Jun 2025 01:52:04 GMT</pubDate>
+    <title>Adding a Mechanical Statistic</title>
+    <link>https://quartz.jzhao.xyz/Adding-a-Mechanical-Statistic</link>
+    <guid>https://quartz.jzhao.xyz/Adding-a-Mechanical-Statistic</guid>
+    <description>Extending an existing statistic fails to present the player with a to challenge or tool and is generally regarded as a boring and tedious addition to a given system.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
   </item><item>
-    <title>2025-06-05</title>
-    <link>https://quartz.jzhao.xyz/daily/2025-06-05</link>
-    <guid>https://quartz.jzhao.xyz/daily/2025-06-05</guid>
-    <description> Finish making notes from 2025-06-04 After watching the video on Mentats from yesterday, I was recommended this video on memory and “how to think like a Mentat”.</description>
-    <pubDate>Fri, 06 Jun 2025 01:52:04 GMT</pubDate>
+    <title>Agenda Card</title>
+    <link>https://quartz.jzhao.xyz/Agenda-Card</link>
+    <guid>https://quartz.jzhao.xyz/Agenda-Card</guid>
+    <description>This is the core of my system.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>The Metamageia Vault Welcome! My name is Gage Lara aka Metamageia.</description>
-    <pubDate>Fri, 06 Jun 2025 01:52:04 GMT</pubDate>
+    <title>Agent</title>
+    <link>https://quartz.jzhao.xyz/Agent</link>
+    <guid>https://quartz.jzhao.xyz/Agent</guid>
+    <description> A discrete process of intentional actualization oriented towards a distinct Telos.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Alfred North Whitehead</title>
+    <link>https://quartz.jzhao.xyz/Alfred-North-Whitehead</link>
+    <guid>https://quartz.jzhao.xyz/Alfred-North-Whitehead</guid>
+    <description></description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
+  </item><item>
+    <title>Antinet Zettlekasten</title>
+    <link>https://quartz.jzhao.xyz/Antinet-Zettlekasten</link>
+    <guid>https://quartz.jzhao.xyz/Antinet-Zettlekasten</guid>
+    <description>The “Antinet” is a term coined by author and copywriter Scott Scheper to describe his version of Niklas Luhmmann’s Zettlekasten system.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
   </item><item>
     <title>Arguments</title>
     <link>https://quartz.jzhao.xyz/Arguments</link>
     <guid>https://quartz.jzhao.xyz/Arguments</guid>
     <description> “A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.” New Oxford American Dictionary In Analytical Reading, the key sentences in individual paragraphs in a well constructed book will form the basis of an author’s arguments.</description>
-    <pubDate>Thu, 05 Jun 2025 16:54:27 GMT</pubDate>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
   </item><item>
-    <title>Cognitive Assessment</title>
-    <link>https://quartz.jzhao.xyz/Cognitive-Assessment</link>
-    <guid>https://quartz.jzhao.xyz/Cognitive-Assessment</guid>
-    <description>Full Scale IQ (FSIQ): Comprehensive Adult Intelligence Test (CAIT) Fluid Intelligence: Jouve-Cerebrals Test of Induction (JCTI) .</description>
-    <pubDate>Thu, 05 Jun 2025 16:54:27 GMT</pubDate>
-  </item><item>
-    <title>Compose2nix</title>
-    <link>https://quartz.jzhao.xyz/Compose2nix</link>
-    <guid>https://quartz.jzhao.xyz/Compose2nix</guid>
-    <description>A tool for automatically generating a NixOS configuration module from a Docker Compose YAML file by converting each service definition into an OCI Container configuration, making it easier to run Docker projects on NixOS.</description>
-    <pubDate>Thu, 05 Jun 2025 16:54:27 GMT</pubDate>
-  </item><item>
-    <title>Comprehensive Adult Intelligence Test (CAIT)</title>
-    <link>https://quartz.jzhao.xyz/Comprehensive-Adult-Intelligence-Test-(CAIT)</link>
-    <guid>https://quartz.jzhao.xyz/Comprehensive-Adult-Intelligence-Test-(CAIT)</guid>
-    <description>The aim of project CAIT is to provide a free resource for estimating a Full Scale IQ (FSIQ) score for adults interested in Cognitive Assessment.</description>
-    <pubDate>Thu, 05 Jun 2025 16:54:27 GMT</pubDate>
+    <title>Astrology</title>
+    <link>https://quartz.jzhao.xyz/Astrology</link>
+    <guid>https://quartz.jzhao.xyz/Astrology</guid>
+    <description>Planets Hellenistic Astrology by Chris Brennan.</description>
+    <pubDate>Fri, 06 Jun 2025 06:15:59 GMT</pubDate>
   </item>
     </channel>
   </rss>
