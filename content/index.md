@@ -1,5 +1,8 @@
-## The Metamageia Vault
-
+---
+aliases:
+  - The Metamageia Vault
+title: The Metamageia Vault
+---
 Welcome! My name is Gage Lara aka Metamageia. 
 
 What you're seeing here is a combination of my personal website and my working notes from my Obsidian notes vault. Many of the notes you'll find here are little more than rough and incomplete ideas and musings about what I'm interested in learning - all shared online as an exercise in [[Learning in Public]]. Expect to find flaws, unfinished notes, and links to notes that don't quite exist yet. 
