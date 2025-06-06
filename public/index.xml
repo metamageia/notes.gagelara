@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Timeline Plugin</title>
+    <link>https://quartz.jzhao.xyz/Timeline-Plugin</link>
+    <guid>https://quartz.jzhao.xyz/Timeline-Plugin</guid>
+    <description>From the Timeline Plugin Github Repo: Build Amazing Timelines We recommend you use the snippet instead for footnotes and node links and use it with other plugins.</description>
+    <pubDate>Fri, 06 Jun 2025 01:47:12 GMT</pubDate>
+  </item><item>
+    <title>2025-06-05</title>
+    <link>https://quartz.jzhao.xyz/daily/2025-06-05</link>
+    <guid>https://quartz.jzhao.xyz/daily/2025-06-05</guid>
+    <description> Finish making notes from 2025-06-04 After watching the video on Mentats from yesterday, I was recommended this video on memory and “how to think like a Mentat”.</description>
+    <pubDate>Fri, 06 Jun 2025 00:44:11 GMT</pubDate>
+  </item><item>
+    <title>Nix User Repository (NUR)</title>
+    <link>https://quartz.jzhao.xyz/Nix-User-Repository-(NUR)</link>
+    <guid>https://quartz.jzhao.xyz/Nix-User-Repository-(NUR)</guid>
+    <description>The Nix User Repository is a registry of Nix community repos. Website: nur.nix-community.org/ Github: github.com/nix-community/NUR.</description>
+    <pubDate>Thu, 05 Jun 2025 23:46:50 GMT</pubDate>
+  </item><item>
+    <title>Vignette vs Compose</title>
+    <link>https://quartz.jzhao.xyz/Vignette-vs-Compose</link>
+    <guid>https://quartz.jzhao.xyz/Vignette-vs-Compose</guid>
+    <description>This PKMashup prompted some thoughts about WIP projects Compose RPG and Vignette RPG and the false dichotomy of Top Down and Bottom Up design.</description>
+    <pubDate>Thu, 05 Jun 2025 18:32:23 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>The Metamageia Vault Welcome! My name is Gage Lara aka Metamageia.</description>
+    <pubDate>Thu, 05 Jun 2025 18:27:04 GMT</pubDate>
+  </item><item>
+    <title>Cognitive Assessment</title>
+    <link>https://quartz.jzhao.xyz/Cognitive-Assessment</link>
+    <guid>https://quartz.jzhao.xyz/Cognitive-Assessment</guid>
+    <description>Full Scale IQ (FSIQ): Comprehensive Adult Intelligence Test (CAIT) Fluid Intelligence: Jouve-Cerebrals Test of Induction (JCTI) .</description>
+    <pubDate>Thu, 05 Jun 2025 16:51:50 GMT</pubDate>
+  </item><item>
+    <title>Comprehensive Adult Intelligence Test (CAIT)</title>
+    <link>https://quartz.jzhao.xyz/Comprehensive-Adult-Intelligence-Test-(CAIT)</link>
+    <guid>https://quartz.jzhao.xyz/Comprehensive-Adult-Intelligence-Test-(CAIT)</guid>
+    <description>The aim of project CAIT is to provide a free resource for estimating a Full Scale IQ (FSIQ) score for adults interested in Cognitive Assessment.</description>
+    <pubDate>Thu, 05 Jun 2025 16:51:17 GMT</pubDate>
+  </item><item>
+    <title>Jouve-Cerebrals Test of Induction (JCTI)</title>
+    <link>https://quartz.jzhao.xyz/Jouve-Cerebrals-Test-of-Induction-(JCTI)</link>
+    <guid>https://quartz.jzhao.xyz/Jouve-Cerebrals-Test-of-Induction-(JCTI)</guid>
+    <description>The Jouve-Cerebrals Test of Induction (JCTI) is a computerized adaptive Cognitive Assessment designed to assess Inductive Reasoning.</description>
+    <pubDate>Thu, 05 Jun 2025 16:49:14 GMT</pubDate>
+  </item><item>
+    <title>Arguments</title>
+    <link>https://quartz.jzhao.xyz/Arguments</link>
+    <guid>https://quartz.jzhao.xyz/Arguments</guid>
+    <description> “A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.” New Oxford American Dictionary In Analytical Reading, the key sentences in individual paragraphs in a well constructed book will form the basis of an author’s arguments.</description>
+    <pubDate>Thu, 05 Jun 2025 16:48:41 GMT</pubDate>
+  </item><item>
+    <title>Rating of Perceived Exertion</title>
+    <link>https://quartz.jzhao.xyz/Rating-of-Perceived-Exertion</link>
+    <guid>https://quartz.jzhao.xyz/Rating-of-Perceived-Exertion</guid>
+    <description>Rating of Perceived Exertion (RPE) is a subjective quantification of how hard somebody feels they are working while exercising.</description>
+    <pubDate>Thu, 05 Jun 2025 16:46:57 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
