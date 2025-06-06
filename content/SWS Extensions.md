@@ -1,0 +1,1 @@
+[SWS S&M Extensions](https://www.sws-extension.org/) is a [FOSS collection](https://github.com/reaper-oss/sws) of features that integrate directly into [Reaper] expanding it's functionality.

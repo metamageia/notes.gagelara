@@ -1,0 +1,1 @@
+[ReaPack](https://github.com/cfillion/reapack) is a FOSS package manager [[Reaper]], which allows the browsing and installation and updating of extensions and themes from within Reaper itself. 

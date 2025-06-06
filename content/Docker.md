@@ -1,0 +1,1 @@
+Docker is a set of platform as a service (PaaS) products that use OS-level [[Virtualization]] to deliver software in packages called containers. It's a tool that allows for easy and automated deployment of server-based applications across different environments.

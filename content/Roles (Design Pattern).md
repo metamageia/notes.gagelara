@@ -1,0 +1,4 @@
+At the most fundamentally abstract level, [[Koster's Taxonomy of Games|games as rules constructs]] are essentially a collection of verbs and goals. In designing multiplayer experiences, it is critically important to clearly model and communicate how a player ought to relate to other players if they are to feel engaged with your world. The most effective way is to assign different [[Adding Gameplay Verbs and Goals|verbs and/or goals]] which intrinsically incentivize either cooperation or competition with one another.  This specific [[Game Design Patterns|Design Pattern]] is called a "Role", and is the mechanical foundation of all [[Role Playing Games]] (though it is not exclusive to them). 
+
+---
+[[Do classes suck- – Raph's Website]]

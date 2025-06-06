@@ -1,0 +1,1 @@
+Mentats are human super-computers featured in [[Frank Herbert]]'s [[Dune]] novels. They are specifically gifted individuals selected and trained as "a replacement to the computers and thinking machines following the [[Butlerian Jihad ]]that banned the creation of machines in the human mind's image".

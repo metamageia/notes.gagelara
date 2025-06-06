@@ -1,0 +1,7 @@
+- Monster of the Week Jam
+- First Day Jam
+- [[Theurgist - Trespasser]]
+- Wild Magic / Oddities Alignment based class - the menagerie?
+- [[Usurper - Solo & Judge-less Rules for Trespasser]]
+- Infiltrator - Trespasser SCIFI
+	- Incursor? 

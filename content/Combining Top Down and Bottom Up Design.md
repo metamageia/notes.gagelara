@@ -1,0 +1,4 @@
+While some people perceive [[Top Down Game Design]] and [[Bottom Up Game Design]] to be diametrically opposed philosophies, in reality it's a false dichotomy. Games [[Atomizing and Abstracting Game Mechanics|fit inside one another fractally, like concentric rings]], meaning you can start from either the top or bottom and move back and forth between the two poles of system and theme when and where appropriate, getting the best of both worlds. Specific [[Game Design Patterns]] can almost always be translated into new [[Changing Gameplay Metaphors|thematic metaphors]] and vice versa, allowing you to move seamlessly between these two modes of creativity and innovate on both levels. 
+
+---
+[[Practical Creativity by Raph Koster, GDC 2014]]

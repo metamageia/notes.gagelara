@@ -1,0 +1,1 @@
+The Jouve-Cerebrals Test of Induction (JCTI) is a computerized adaptive [[Cognitive Assessment]] designed to assess [[Inductive Reasoning]]. By dynamically adjusting the difficulty and number of questions based on the test-taker's performance, the JCTI provides a precise measurement of [[Fluid Intelligence]].

@@ -1,0 +1,1 @@
+Rapid Serial Visual Presentation (RSVP) is an approach to evaluating and training visual processing and reaction time by rapidly displaying words or images on a screen in rapid succession. 
