@@ -1,15 +1,10 @@
----
-aliases:
-  - The Metamageia Vault
-title: The Metamageia Vault
----
+## The Metamageia Vault
+
 Welcome! My name is Gage Lara aka Metamageia. 
 
-What you're seeing here is a combination of my personal website and my working notes from my Obsidian notes vault. Many of the notes you'll find here are little more than rough and incomplete ideas and musings about what I'm interested in learning - all shared online as an exercise in [[Learning in Public]]. Expect to find flaws, unfinished notes, and links to notes that don't quite exist yet. 
+What you're seeing here is a combination of my personal website and my working notes from my Obsidian notes vault. Many of the notes you'll find here are little more than rough and incomplete ideas and musings about what I'm interested in learning - all shared online as an exercise in [[Learning in Public]]. 
 
 If you want to see some of these interests in action check out my projects on [GitHub](https://github.com/metamageia), my TTRPG creations on [Itch.io](https://metamageia.itch.io/), or check out some of my music on [Bandcamp](https://gagelara.bandcamp.com/).
-
-If you're a fan of the TTRPG [Trespasser](https://tundalus.itch.io/trespasser) check out my statblock library & editor web app [OVERLORD](https://metamageia.github.io/overlord/).  
 
 If you like any of the stuff I do, you can consider [buying me a coffee](https://buymeacoffee.com/metamageia).
 

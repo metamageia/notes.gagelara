@@ -2,7 +2,7 @@
 aliases:
   - Agency
 ---
-> A discrete process of intentional actualization oriented towards a distinct [[Telos]].
+> A discrete process of intentional actualization oriented towards a distinct [[Telos]]. 
 
 I'm using the term Process broadly in the [[Alfred North Whitehead|Whitehead]]-ian sense of a procession of occasions of experience. It's here I acknowledge [[Process Philosophy|Process Ontology]] as a necessary logical prior to my working definition of "Agent" that you may-or-may-not share. 
 
