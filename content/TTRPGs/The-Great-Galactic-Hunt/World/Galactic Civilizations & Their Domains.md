@@ -5,7 +5,7 @@ The civilizations of [[The Galaxy]] have had 150 years to colonize and spread ou
 ## Factions:
 ### [[The Credo-Syndicates]]
 
-## [[The Cogent Union]]
+### [[The Cogent Union]]
 
 ### [[The Star-Duchy of Astraea]]
 
