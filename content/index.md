@@ -1,3 +1,6 @@
+---
+title: The Metamageia Vault
+---
 ## The Metamageia Vault
 
 Welcome! My name is Gage Lara aka Metamageia. 

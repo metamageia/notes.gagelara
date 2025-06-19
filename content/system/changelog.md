@@ -1,3 +1,4 @@
+- 2025-06-19T1628 · [[index]]
 - 2025-06-19T1625 · [[2025-06-19]]
 - 2025-06-19T1410 · [[Github Actions]]
 - 2025-06-19T1343 · [[Galactic Civilizations & Their Domains]]
@@ -54,7 +55,6 @@
 - 2025-06-19T1307 · [[Amid the Silence, Hunger MOSAIC Strict Trifold Story Kit]]
 - 2025-06-19T1307 · [[Dark Fantasy Character Playbook for MOSAIC Strict]]
 - 2025-06-19T1307 · [[Dark Fantasy Character Playbook Itch.io page]]
-- 2025-06-19T1307 · [[index]]
 - 2025-06-19T1307 · [[2025-06-05]]
 - 2025-06-19T1307 · [[2025-06-04]]
 - 2025-06-19T1307 · [[2025-06-03]]
