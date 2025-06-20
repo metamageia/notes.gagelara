@@ -32,7 +32,7 @@ Test deploy and check actions
 	- optional section below for excluding files or directories, such as when using your root as the content and you want to exclude private or dotfiles
 - Maintaining multiple sites from the same vault
 	- Just create multiple folders, each with their own contents.
-	- Follow step 3 again (or in GitHub import the repo to a new repo) to create a new site
+	- Follow step 3 again (or in GitHub import the repo to a new repo) to create a new site. Remember to set github pages setting to actions
 	- Add a new job for each site OR separate workflows for each site, including the new sources and destinations and PAT key
 	- every site will be updated simultaneously everytime you push your main vault 
 - Conclusion 

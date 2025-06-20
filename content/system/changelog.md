@@ -1,4 +1,4 @@
-- 2025-06-20T0000 · [[Effortless Obsidian-to-Quartz CI&CD with GitHub Actions]]
+- 2025-06-20T0002 · [[Effortless Obsidian-to-Quartz CI&CD with GitHub Actions]]
 - 2025-06-19T2302 · [[2025-06-19]]
 - 2025-06-19T2247 · [[Galactic Civilizations & Their Domains]]
 - 2025-06-19T2247 · [[The Galaxy]]
