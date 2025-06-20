@@ -28,7 +28,7 @@ Test deploy and check actions
 	- Explain that just like how the Quartz example action automates the build and deployment of the website, we can easily automate pushing updates to the Quartz repo each time we push our central vault repo, and that push will trigger the deploy action on the destination vault
 	- include diagram
 	- Create PAT and add it to the Obsidian vault repo with scope repo write / push (include the token name from the example actions for the tutorial). Restrict to specific repos you know you'll be managing as quartz sites, create a new PAT for each new site, and rotate PAT periodically. If you'll be creating a lot of personal sites, you can scope the PAT to all repos but this is very insecure and not recomended
-	- quote and explain action to add to the obsidian vault, referencing the PAT created and making the destination ./content
+	- quote and explain action to add to the obsidian vault, referencing the PAT created and making the destination ./content. Explain the index.md test.
 	- optional section below for excluding files or directories, such as when using your root as the content and you want to exclude private or dotfiles
 - Maintaining multiple sites from the same vault
 	- Just create multiple folders, each with their own contents.
