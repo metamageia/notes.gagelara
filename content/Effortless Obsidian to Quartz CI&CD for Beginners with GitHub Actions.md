@@ -43,4 +43,31 @@ Test deploy and check actions
 	- link to the example file push action by [DataLbry](https://github.com/datalbry)
 		- https://github.com/marketplace/actions/push-a-directory-to-another-repository 
 	- link to example file check action by [andstor](https://github.com/marketplace/actions/file-existence)
-		  https://github.com/marketplace/actions/file-existence
+		- https://github.com/marketplace/actions/file-existence
+	- Template Repository
+		- https://github.com/metamageia/Quartz-Template
+# Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
+
+## Table of Contents
+- Introduction
+	- Why I use Obsidian
+	- Why Quartz over Obsidian Publish 
+	- Who This Is For
+	- Goal & Scope
+- What is CI/CD?
+	- Continuous Integration
+	- Continuous Deployment
+- Preparing your Obsidian Vault
+	- Prerequisites
+	- Initializing the Repository
+	- Creating the Website Folder & Contents
+- Setting up and Hosting the Quartz Static Site
+	- Creating a new Repository from Template
+	- GitHub Pages Setup
+- CI/CD Pipeline
+	- Workflow Overview
+	- Automating Quartz Site Build & Deployment
+	- Setting up your PAT and Secrets Management
+	- Automating Quartz Site Content Updates
+- Maintaining Multiple Sites from the same Vault
+- Conclusion
