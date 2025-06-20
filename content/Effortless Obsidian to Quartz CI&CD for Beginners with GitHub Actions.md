@@ -42,3 +42,5 @@ Test deploy and check actions
 	- link to github actions docs
 	- link to the example file push action by [DataLbry](https://github.com/datalbry)
 		- https://github.com/marketplace/actions/push-a-directory-to-another-repository 
+	- link to example file check action by [andstor](https://github.com/marketplace/actions/file-existence)
+		  https://github.com/marketplace/actions/file-existence

@@ -1,5 +1,5 @@
+- 2025-06-20T1043 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-20T1041 · [[2025-06-20]]
-- 2025-06-20T1040 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-20T0022 · [[2025-06-19]]
 - 2025-06-20T0018 · [[Ivan Kurnikov]]
 - 2025-06-19T2247 · [[Galactic Civilizations & Their Domains]]
