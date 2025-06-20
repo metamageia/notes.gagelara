@@ -1,7 +1,5 @@
 # Galactic Civilizations & Their Domains:
-
 The civilizations of [[The Galaxy]] have had 150 years to colonize and spread out since the cosmic broadcast. More powerful civilizations have up to 5 colonies, while lesser ones may have 1 or 2, reflecting their technological advantages and cultural drives.
-
 ## Factions:
 ### [[The Credo-Syndicates]]
 
