@@ -1,3 +1,4 @@
+- 2025-06-20T1224 · [[index]]
 - 2025-06-20T1209 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-20T1041 · [[2025-06-20]]
 - 2025-06-20T0022 · [[2025-06-19]]
@@ -147,4 +148,3 @@
 - 2025-06-19T1307 · [[Make it Obvious]]
 - 2025-06-19T1307 · [[Make it Easy]]
 - 2025-06-19T1307 · [[Make it Attractive]]
-- 2025-06-19T1307 · [[MOSAIC Strict]]
