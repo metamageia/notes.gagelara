@@ -11,5 +11,3 @@ Culture: The Republic of Craig is a unique and unsettling hive mind, born from a
 However, the further a Craig travels from their homeworld, the weaker the central psychic link becomes. Individuals or groups of Craigs detached from the planet for extended periods may slowly regain a semblance of individuality, or form smaller, localized hive minds among themselves. This gradual breaking away from the central consciousness is a source of both existential dread and quiet fascination for those few Craigs who experience it.
 
 Number of Colonies: 0
-
----

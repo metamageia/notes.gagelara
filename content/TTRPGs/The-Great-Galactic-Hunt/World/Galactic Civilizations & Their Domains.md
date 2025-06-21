@@ -21,7 +21,7 @@ The civilizations of [[The Galaxy]] have had 150 years to colonize and spread ou
 
 ### [[The Iron Legion of Kreig]]
 
-### [[The Stratocracy of Axiom]]
+### [[The Meritocracy of Axiom]]
 
 ### [[The Twin Capitals of Cygnus]]
 

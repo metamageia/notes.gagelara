@@ -13,12 +13,6 @@ Number of Colonies: 4
 Colonies:
 
 - Chromium Forge: A major cyberware production and enhancement facility.
-    
 - Aesthetic Core: A center for advanced cosmetic and artistic augmentation.
-    
 - Synth-Life Research: A dedicated bio-mechanical research world.
-    
 - Perfection's Reach: A distant world for experimenting with advanced forms of existence.
-    
-
----

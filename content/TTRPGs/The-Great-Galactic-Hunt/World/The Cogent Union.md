@@ -13,14 +13,7 @@ Number of Colonies: 5
 Colonies:
 
 - Logic Core: A primary AI research and development center.
-    
 - Automata Junction: A manufacturing hub managed by expert systems.
-    
 - Sentience Sprawl: A highly urbanized, AI-optimized world.
-    
 - Algorithm's Sanctuary: A remote data and processing haven.
-    
 - Synthetic Garden: An agricultural world with AI-managed ecosystems.
-    
-
----

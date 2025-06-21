@@ -13,10 +13,5 @@ Number of Colonies: 3
 Colonies:
 
 - Concordat Gateway: A primary trade route nexus.
-    
 - Perigian Outpost: A newly established diplomatic and trade presence.
-    
 - Diplomacy's Haven: A neutral meeting ground for inter-species relations.
-    
-
----

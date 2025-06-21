@@ -13,8 +13,4 @@ Number of Colonies: 2
 Colonies:
 
 - Xenobotanical Preserve: A world dedicated to cultivating exotic native life for synthesis.
-    
 - Distillation Outpost: A remote facility for processing rare chemical compounds.
-    
-
----

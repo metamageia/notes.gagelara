@@ -13,12 +13,6 @@ Number of Colonies: 4
 Colonies:
 
 - Legion's Fist: A major military training and arms manufacturing world.
-    
 - Honor Guard Station: A strategic defensive outpost.
-    
 - War-Torn Reclaim: A recently re-conquered or contested world.
-    
 - Armory World Beta: A world dedicated to pretech weapon production.
-    
-
----

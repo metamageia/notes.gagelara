@@ -12,7 +12,7 @@
 - 2025-06-19T1410 · [[Github Actions]]
 - 2025-06-19T1342 · [[The Verdant Alliance]]
 - 2025-06-19T1342 · [[The Twin Capitals of Cygnus]]
-- 2025-06-19T1342 · [[The Stratocracy of Axiom]]
+- 2025-06-19T1342 · [[The Meritocracy of Axiom]]
 - 2025-06-19T1342 · [[The Star-Duchy of Astraea]]
 - 2025-06-19T1342 · [[The Republic of Craig]]
 - 2025-06-19T1342 · [[The Perigian Concord]]

@@ -1,4 +1,4 @@
-# The Stratocracy of Axiom
+# The Meritocracy of Axiom
 
 Technology Advantage: Expert System Development and Management
 
@@ -13,8 +13,4 @@ Number of Colonies: 2
 Colonies:
 
 - Axiom Core: A central hub for expert system development and oversight.
-    
 - Data Mine Alpha: A resource extraction world heavily managed by expert systems.
-    
-
----

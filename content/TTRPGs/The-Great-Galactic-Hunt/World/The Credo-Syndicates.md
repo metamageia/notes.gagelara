@@ -11,14 +11,7 @@ Culture: These hyper-capitalists view all life and resources as commodities to b
 Number of Colonies: 4
 
 Colonies:
-
 - Trade Spire: A central mercantile hub.
-    
 - Credit Haven: A financial and banking world.
-    
 - Resource Node Gamma: A profitable extraction outpost.
-    
 - Far-Trader's Reach: A distant commercial waypoint.
-    
-
----
