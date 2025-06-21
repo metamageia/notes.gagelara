@@ -10,7 +10,8 @@ This sudden infusion of knowledge propelled numerous human civilizations to a co
 ## [[Galactic Civilizations & Their Domains]]
 
 ## Player Characters
-[[Ivan Kurnikov]] 
-[[Boris]]
-[[Malachai]]
-[[Emilio Guillen]] 
+- [[Ivan Kurnikov]] 
+- [[Boris]]
+- [[Malachai]]
+- [[Emilio Guillen]] 
+
