@@ -69,6 +69,7 @@ Test deploy and check actions
 - Conclusion
 
 ## Introduction
+
 For a few years now I've run my life in [Obsidian](https://obsidian.md/). Everything - including research, project management, TTRPG notes, and this post you're reading now - lives in my personal Obsidian vault. I recently refactored this "second brain" of mine and begin sharing my notes online as an exercise in "learning in public".
 
 There's a number of tools for sharing your markdown notes online, including Obsidian's own great [publish service](https://obsidian.md/publish). However, given my own enthusiasm for DIY approaches I decided it'd be better (and more fun) to host my own solution: enter [Quartz](https://quartz.jzhao.xyz/), a fast and easy to use static site generator purpose built for publishing markdown notes that I could host on GitHub Pages *for free*. 
@@ -82,17 +83,30 @@ Rather than configuring Quartz entirely from scratch, I provide a template repos
 By following this process, you’ll quickly set up a maintainable and scalable publishing workflow, freeing you to focus on writing. We’ll walk through preparing your vault, configuring GitHub Actions to automatically build and deploy your Quartz website, and extending this to easily updating multiple sites from within a single vault. 
 
 With that out of the way, let’s dive into the CI/CD basics that power this workflow. 
+
 ## What is CI/CD?
+
 Continuous Integration (CI) is a software development practice in which developers regularly push code changes to a repository, triggering automated builds and tests. This approach keeps the codebase up to date and surfaces potential problems early. Automating the process of copying notes from your vault to the Quartz repository, filtering out unwanted directories, validating essential files, and building the website reduces what could become an hour-long chore to mere seconds.
 
 Continuous Deployment (CD) is a software delivery strategy where code changes that have passed integration are automatically released to production. Every step of the delivery process after your commit is handled by automated tools and scripts, with no need for manual intervention. That means from the moment you push your updated notes to your repository, the transformation from plain Markdown to a published website happens quickly and effortlessly.
 
 Put together, embracing a CI/CD workflow to publishing your vault means you can spend your valuable time and energy working on your notes rather than the repetitive and time consuming tasks of testing, building, and deployment. 
-## Preparing your Obsidian Vault
-The first step is to create a GitHub repository with the contents of your Obsidian vault. If you have one already, that's great - you won't need to make a new one. This repo can be either public or private, that's entirely up to you. Your website will be hosted in a separate repository and the CI/CD workflow we'll be building will allow you to selectively choose which folders in your vault get published, allowing you to maintain complete control over what is public and what is private. 
 
-Once you've established your Obsidian repo it's time to set up your content folder. This can be the root folder of your vault if you intend to publish most/all of your notes, or it can be any folder in your vault.
+## Preparing your Obsidian Vault
+The first step is to set up your content folder. This can be the root folder of your vault if you intend to publish most/all of your notes, or it can be any folder in your vault. You will need to create a file named index.md in the folder you'd like to publish to serve as the homepage of your website. 
+
+By default, each page of your Quartz site will display the name of the file as its title. You can optionally set the yaml property 'title' to display a page title different than the file name, such as I've done here for my homepage. 
+
+![[Example-Vault.png]]
+
+The next step is to create a GitHub repository with the contents of your Obsidian vault. If you have one already, that's great - you won't need to make a new one. This repo can be either public or private, that's entirely up to you. Your website will be hosted in a separate repository and the CI/CD workflow we'll be building will allow you to selectively choose which folders in your vault get published, allowing you to maintain complete control over what is public and what is private. Once you're done setting up your Obsidian vault repository, you're to create your Quartz repo. 
+
 ## Setting up the Quartz Static Site
+
+Because this tutorial is focused on basic CI/CD principles for beginners, we won't be building a Quartz website from scratch - so no Node.js knowledge or dependency installation required! Instead, go to the [Quartz template repository](https://github.com/metamageia/Quartz-Template) I've provided and create a new repository from this template. Give your website repo an appropriate name and keep all other settings as their defaults. 
+
+![[Create Repo from Template.png]]
+
 ## The CI/CD Workflow
 ## Maintaining Multiple Sites from a Single Vault
 ## Conclusion
