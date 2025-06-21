@@ -1,5 +1,5 @@
+- 2025-06-21T0031 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-20T2047 · [[Ivan Kurnikov]]
-- 2025-06-20T2043 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-20T1858 · [[index]]
 - 2025-06-20T1655 · [[2025-06-20]]
 - 2025-06-20T1224 · [[index]]
