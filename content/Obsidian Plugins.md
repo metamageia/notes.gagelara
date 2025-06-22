@@ -7,6 +7,7 @@ A list of the [[Obsidian]] Community Plugins I use, and notes about their basic 
 - [[BRAT Obsidian Plugin]]
 - [[Buttons Plugin]]
 - [[Dataview Plugin]]
+- [[Git Obsidian Plugin]]
 - [[Markdown Formatting Assistant Plugin]]
 - [[Omnivore Plugin]]
 - [[Quick Add Plugin]]

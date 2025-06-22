@@ -209,7 +209,7 @@ jobs:
       id: check_files
       uses: andstor/file-existence-action@v3
       with:
-        files: "./index.md"
+        files: "<PATH_TO_YOUR_INDEX.MD>"
 
     - name: Index exists
       if: steps.check_files.outputs.files_exists == 'true'
@@ -236,6 +236,7 @@ jobs:
 ```
 
 Before we break it down, pay special care to edit these specific lines:
+- `files: "<PATH_TO_YOUR_INDEX.MD>"` Should point to the location of your `index.md` file in your vault. 
 - `API_TOKEN_GITHUB: ${{ secrets.QUARTZ_REPO_PAT }}` If you named your PAT in your repository secrets `QUARTZ_REPO_PAT` this can remain the same. If you gave it a different name, update it here. 
 - `source_folder: '<PATH_TO_YOUR_SOURCE_FOLDER>'` Sets the path to the specific folder in your Obsidian vault repository (that you created `index.md` in) to be copied and pushed to the other repo.
 - `destination_repo: '<YOUR_USERNAME>/<QUARTZ-REPO-NAME>'` Should be updated to point at your Quartz repository so the workflow pushes the content to the correct location. 

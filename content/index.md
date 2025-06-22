@@ -5,7 +5,7 @@ title: The Metamageia Vault
 
 Welcome! My name is Gage Lara aka Metamageia. 
 
-What you're seeing here is a combination of my personal website and my working notes from my Obsidian notes vault. Many of the notes you'll find here are little more than rough and incomplete ideas and musings about what I'm interested in learning - all shared online as an exercise in [[Learning in Public]]. 
+What you're seeing here is a combination of my personal website and my working notes from my Obsidian notes vault. Many of the notes you'll find here are little more than rough and incomplete ideas and musings about what I'm interested in learning - all shared online as an exercise in learning in public. 
 
 If you want to see some of these interests in action check out my projects on [GitHub](https://github.com/metamageia), my TTRPG creations on [Itch.io](https://metamageia.itch.io/), or check out some of my music on [Bandcamp](https://gagelara.bandcamp.com/).
 
