@@ -1,4 +1,4 @@
-- 2025-06-21T1925 · [[S0.1 - Establishing The Somnambulist]]
+- 2025-06-21T1925 · [[S0.5 - Establishing The Somnambulist]]
 - 2025-06-21T1924 · [[The Twin Capitals of Cygnus]]
 - 2025-06-21T1909 · [[Ivan Kurnikov]]
 - 2025-06-21T1905 · [[index]]
