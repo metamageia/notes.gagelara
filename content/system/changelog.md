@@ -1,7 +1,7 @@
+- 2025-06-21T1955 · [[index]]
 - 2025-06-21T1925 · [[S0.5 - Establishing The Somnambulist]]
 - 2025-06-21T1924 · [[The Twin Capitals of Cygnus]]
 - 2025-06-21T1909 · [[Ivan Kurnikov]]
-- 2025-06-21T1905 · [[index]]
 - 2025-06-21T1844 · [[2025-06-21]]
 - 2025-06-21T1111 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-21T1056 · [[The Republic of Craig]]
