@@ -11,7 +11,7 @@ This sudden infusion of knowledge propelled numerous human civilizations to a co
 
 ## Player Characters
 - [[Ivan Kurnikov]] 
-- [[Boris]]
+- [[Boris Kurnikov]]
 - [[Malachai]]
 - [[Emilio Guillen]] 
 
