@@ -14,6 +14,7 @@
 		- https://github.com/marketplace/actions/file-existence
 	- Template Repository
 		- https://github.com/metamageia/Quartz-Template
+	- add a note about the obsidian Git plugin and updating repos from your phone 
 # Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
 
 ## Table of Contents
