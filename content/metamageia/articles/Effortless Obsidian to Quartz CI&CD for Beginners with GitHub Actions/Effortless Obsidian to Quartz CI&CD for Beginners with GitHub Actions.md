@@ -1,32 +1,16 @@
-
-	- Call to action to share
-	- add socials
-	- Link NVDH video on quartz, how I found out about it. Link again to quartz documentation for issues
 # Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
 
 ## Table of Contents
-- Introduction
-	- Why I use Obsidian
-	- Why Quartz over Obsidian Publish 
-	- Who This Is For
-	- Goal & Scope
-- What is CI/CD?
-	- Continuous Integration
-	- Continuous Deployment
-	- Workflow Overview
-- Preparing your Obsidian Vault
-	- Prerequisites
-	- Initializing the Repository
-	- Creating the Website Folder & Contents
-- Setting up and Hosting the Quartz Static Site
-	- Creating a new Repository from Template
-	- GitHub Pages Setup
-- CI/CD Pipeline
-	- Quartz Deploy Workflow
-	- Setting up your PAT and Secrets Management
-	- Automating Quartz Site Content Updates
-- Maintaining Multiple Sites from the same Vault
-- Conclusion
+- [[#Introduction]]
+- [[#What is CI/CD?]]
+- [[#Preparing your Obsidian Vault]]
+- [[#Setting up the Quartz Static Site]]
+- [[#Creating the CI/CD Workflow]]
+	- [[#Quartz Deploy Workflow]]
+	- [[#Setting up a PAT & Secrets Management]]
+	- [[#Push Quartz Content Workflow]]
+- [[#Optional Maintaining Multiple Sites from within a Single Vault]]
+- [[#Conclusion]]
 
 ## Introduction
 
@@ -256,5 +240,4 @@ To create additional websites the process is identical. Set up a new folder in y
 
 With all of this in place, publishing notes to multiple websites (including [my personal website](https://metamageia.github.io/The-Metamageia-Vault/)) has become an effortless process - all of the tedious maintenance work completely automated by this GitHub actions CI/CD pipeline.  As a bonus, this process is made even more convenient with the inclusion of the [Obsidian Git Plugin](https://github.com/Vinzent03/obsidian-git), which allows me to commit and push changes directly from Obsidian, including Obsidian mobile. It is incredibly satisfying to write a few notes on my phone, run the sync command, and a minute later see my website updated accordingly.
 
-I currently use this system to publish my vault as a personal website as well as publish a TTRPG campaign wiki for a Stars Without Number campaign I'm currently playing in, with plans to manage a few technical wikis for a couple upcoming projects. 
-
+If you've followed these steps through the end and have started to maintain your own Quartz website reach out to me at `metamageia@gmail.com` with your thoughts and a link to your site, I'd love to see what you've made!
