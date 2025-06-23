@@ -9,7 +9,7 @@ What you're seeing here is a combination of my personal website and my working n
 
 Checkout my blog over at [Blog Metamageia](https://metamageia.github.io/blog-metamageia/), or browse the blog articles here in the vault at [[metamageia/articles/index|the blog index]].
 
-If you want to see some of these interests in action check out my projects on [GitHub](https://github.com/metamageia)and connect with me on [Linkedin](https://www.linkedin.com/in/gage-lara-53946036b/), my TTRPG creations on [Itch.io](https://metamageia.itch.io/), or check out some of my music on [Bandcamp](https://gagelara.bandcamp.com/).
+If you want to see some of these interests in action check out my projects on [GitHub](https://github.com/metamageia)and connect with me on [Linkedin](https://www.linkedin.com/in/gage-lara), my TTRPG creations on [Itch.io](https://metamageia.itch.io/), or check out some of my music on [Bandcamp](https://gagelara.bandcamp.com/).
 
 If you like any of the stuff I do, you can consider [buying me a coffee](https://buymeacoffee.com/metamageia).
 
