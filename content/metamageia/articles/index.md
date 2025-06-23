@@ -10,3 +10,7 @@ If you enjoy any of the posts here and want to read some of my messier, disorgan
 
 # Articles:
 - [[01 - Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
+
+# Most Recent Post:
+
+![[01 - Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
