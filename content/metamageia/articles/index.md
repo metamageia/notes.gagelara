@@ -8,8 +8,12 @@ Want to get in touch? Reach out at `metamageia@gmail.com` or connect with me on 
 
 If you enjoy any of the posts here and want to read some of my messier, disorganized thoughts as I explore them check out [The Metamageia Vault](https://metamageia.github.io/The-Metamageia-Vault/), my personal website where I publish my working notes about everything from tech to TTRPGs. 
 
-# Articles:
+---
+
+# Recent Posts:
 - [[01 - Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
+
+---
 
 # Most Recent Post:
 
