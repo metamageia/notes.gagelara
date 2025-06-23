@@ -1,4 +1,4 @@
-- 2025-06-22T1331 · [[Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
+- 2025-06-22T1331 · [[01 - Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
 - 2025-06-22T1311 · [[2025-06-22]]
 - 2025-06-22T1203 · [[Git]]
 - 2025-06-22T0119 · [[NixOs Anywhere]]
