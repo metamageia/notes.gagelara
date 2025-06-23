@@ -1,1 +1,0 @@
-Namespaces in [[Kubernetes (K8s)|Kubernetes]] 
