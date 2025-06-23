@@ -1,3 +1,5 @@
+# Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
+
 ## Table of Contents
 - [[#Introduction]]
 - [[#What is CI/CD?]]
