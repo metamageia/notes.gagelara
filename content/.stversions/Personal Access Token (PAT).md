@@ -1,0 +1,1 @@
+Personal Access Tokens are an alternative to using passwords for authentication to GitHub when using the GitHub API or the command line. They are particularlly usefule when building [[Continuous Integration and Continuous Delivery (CI/CD)]] pipelines, allowing automation tools to access eleveated permissions when interac

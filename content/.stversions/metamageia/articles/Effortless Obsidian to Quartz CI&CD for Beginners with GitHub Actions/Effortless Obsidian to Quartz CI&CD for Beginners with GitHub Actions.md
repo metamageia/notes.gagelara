@@ -2,6 +2,14 @@
 	- Call to action to share
 	- add socials
 	- Link NVDH video on quartz, how I found out about it. Link again to quartz documentation for issues
+	- link to github actions docs
+	- link to the example file push action by [DataLbry](https://github.com/datalbry)
+		- https://github.com/marketplace/actions/push-a-directory-to-another-repository 
+	- link to example file check action by [andstor](https://github.com/marketplace/actions/file-existence)
+		- https://github.com/marketplace/actions/file-existence
+	- Template Repository
+		- https://github.com/metamageia/Quartz-Template
+	- add a note about the obsidian Git plugin and updating repos from your phone 
 # Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
 
 ## Table of Contents

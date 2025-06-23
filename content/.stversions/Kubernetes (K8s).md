@@ -10,4 +10,3 @@ In a directory with Kubernetes configuration files, the command `sudo kubectl ap
 ---
 
 [[OCI Container]]
-[[K3s]] 
