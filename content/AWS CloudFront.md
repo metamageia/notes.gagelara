@@ -1,0 +1,1 @@
+CloudFront is a global [[Content Delivery Network]] in the [[AWS]] cloud used to distribute static files around the word.  
