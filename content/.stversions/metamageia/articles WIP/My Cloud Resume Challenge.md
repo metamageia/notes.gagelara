@@ -1,6 +1,0 @@
-- Created an [[AWS S3]] bucket, enabled static web hosting in the properties, and added a placeholder `index.html`
-- Created an [[AWS CloudFront]] distribution with my S3 Bucket as the origin. 
-	- Note: Do not enable the static website option, make sure the cloudfront distribution has a root object set 
-- Registered new domain with Namecheap
-- Create [[AWS Route 53]] Hosted Zone
-	- Add the four `Value/Route traffic to` 
