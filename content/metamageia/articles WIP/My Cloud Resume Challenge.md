@@ -13,8 +13,14 @@ Recap: Learned how to configure S3 Buckets and add content. Set up CloudFront di
 
 ---
 
+- Setup Terraform
+
+- Create Frontend Repo with AWS Secrets management and update s3 bucket with GitOps
 
 
+- JS Visitor Counter
+- Database to retrieve and update the database with dynamo db
+- create an API for DDB with AWS API Gateway and Lambda python functions, including tests
 
 
 ---
