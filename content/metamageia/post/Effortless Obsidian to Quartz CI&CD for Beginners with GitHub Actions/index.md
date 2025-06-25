@@ -3,17 +3,7 @@ title: Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
 date: 2025-06-24T12:00:00-05:00
 draft: false
 ---
-## Table of Contents
-- [[#Introduction]]
-- [[#What is CI/CD?]]
-- [[#Preparing your Obsidian Vault]]
-- [[#Setting up the Quartz Static Site]]
-- [[#Creating the CI/CD Workflow]]
-	- [[#Quartz Deploy Workflow]]
-	- [[#Setting up a PAT & Secrets Management]]
-	- [[#Push Quartz Content Workflow]]
-- [[#Optional Maintaining Multiple Sites from within a Single Vault]]
-- [[#Conclusion]]
+# Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions
 
 ## Introduction
 
@@ -44,7 +34,7 @@ The first step is to set up your content folder. This can be the root folder of 
 
 By default, each page of your Quartz site will display the name of the file as its title. You can optionally set the yaml property 'title' to display a page title different than the file name, such as I've done here for my homepage. 
 
-![[Example-Vault.png]]
+![Example-Vault.png](Example-Vault.png)
 
 The next step is to create a GitHub repository with the contents of your Obsidian vault. If you have one already, that's great - you won't need to make a new one. This repo can be either public or private, that's entirely up to you. Your website will be hosted in a separate repository and the CI/CD workflow we'll be building will allow you to selectively choose which folders in your vault get published, allowing you to maintain complete control over what is public and what is private. Once you're done setting up your Obsidian vault repository, you're to create your Quartz repo. 
 
@@ -54,11 +44,11 @@ Because this tutorial is specifically focused on basic CI/CD principles for begi
 
 > Note: If you'd prefer to create your Quartz from scratch follow the steps outlined in the official docs starting with the [setup](https://quartz.jzhao.xyz/), [build](https://quartz.jzhao.xyz/build), and the [GitHub repository](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository) then follow along with the next step.
 
-![[Create Repo from Template.png]]
+![Create Repo from Template.png](Create%20Repo%20from%20Template.png)
 
 Once you've created your website's Quartz repository you'll need to set up GitHub Pages. On your Quartz repo page click on the Settings tab, open the Pages section under Code and Automation, and set the Build and Deployment source to GitHub Actions. 
 
-![[Github-Pages.png]]
+![Github-Pages.png](Github-Pages.png)
 
 Now that we have two separate repositories for your source (Obsidian) and your website (Quartz), it's time to link them together and set up some automation.
 
@@ -137,7 +127,7 @@ Everything in this workflow can be left as is. Breaking down what this workflow 
 
 After you've created your workflow, commit and push your changes to the Quartz repository, at which point the workflow will execute the build & deploy process. You can view the current status of your workflow(s) in the Actions tab of your GitHub repo.
 
-![[github-actions.png]]
+![github-actions.png](github-actions.png)
 
 > Note: Here we see the workflow has comleted sucessfully. A yellow icon indicates a workflow in progress. A red `x` icon indicates a failed workflow/error, click on the workflow for more information. 
 > 
@@ -145,7 +135,7 @@ After you've created your workflow, commit and push your changes to the Quartz r
 
 After a successful deployment, you can preview your website at `https://<YOUR-USERNAME>.github.io/<QUARTZ-REPO-NAME>/`. To start you'll only see the default Quartz placeholder website, which means it's time to connect your repositories and add some content. 
 
-![[default-site.png]]
+![default-site.png](default-site.png)
 
 ### Setting up a PAT & Secrets Management
 
@@ -153,13 +143,13 @@ Before we can set up a workflow connecting our two repositories, we need to talk
 
 To create a PAT, you will need to go to your GitHub account settings. In the sidebar, go to Developer settings → Personal access tokens → Tokens (classic) create a new token. Note down what the token is for, set an expiration, and select the `repo` scope.
 
-![[PAT.png]]
+![PAT.png](PAT.png)
 
 > IMPORTANT: Once you generate the token, keep it open in another tab or stored in a *secure place* - you will need it for the next step, and won't be able to view it again once you close the tab.
 
 Next, we need to add the PAT to our Obsidian repository so it will have the permissions necessary to copy notes over to your website repo. In a separate tab open your Obsidian vault repository page, to the settings tab, then in the sidebar go to Secrets and variables → Actions. Click New Repository Secret. Name the secret `QUARTZ_REPO_PAT` and paste the PAT you generated in the previous step. Once you successfully add the secret, you can safely close the other tab. 
 
-![[Repository Secrets.png]]
+![Repository Secrets.png](Repository%20Secrets.png)
 
 With the PAT added to your Obsidian vault repository, we can move on to the final piece of your CI/CD pipeline. 
 
@@ -231,7 +221,7 @@ That final `Push Obsidan Content Folder` step is where these workflows finally c
 
 After pushing the changes to your Obsidian vault repo, the workflows in both vaults will run and if you open the rebuild & redeployed site at `https://<YOUR-USERNAME>.github.io/<QUARTZ-REPO-NAME>/` you will now see the site's been updated with the content from your Obsidian vault. 
 
-![[Final-Website.png]]
+![Final-Website.png](Final-Website.png)
 
 ## Optional: Maintaining Multiple Sites from within a Single Vault
 
