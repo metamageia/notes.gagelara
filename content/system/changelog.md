@@ -1,3 +1,4 @@
+- 2025-06-25T0203 · [[2025-06-25]]
 - 2025-06-25T0005 · [[index]]
 - 2025-06-24T2335 · [[the index]]
 - 2025-06-24T2335 · [[2025-06-20]]
@@ -147,4 +148,3 @@
 - 2025-06-19T1307 · [[Passively Become a Hyper-Niche Expert]]
 - 2025-06-19T1307 · [[PKMashup Notes]]
 - 2025-06-19T1307 · [[Omnivore (Web Clipper)]]
-- 2025-06-19T1307 · [[Obsidian]]
