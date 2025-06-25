@@ -7,7 +7,9 @@ Welcome! My name is Gage Lara aka Metamageia.
 
 What you're seeing here is a combination of my personal website and my working notes from my Obsidian notes vault. Many of the notes you'll find here are little more than rough and incomplete ideas and musings about what I'm interested in learning - all shared online as an exercise in learning in public. 
 
-Checkout my blog over at [my blog](https://blog.gagelara.com). If you want to see some of these interests in action check out my projects on [GitHub](https://github.com/metamageia)and connect with me on [Linkedin](https://www.linkedin.com/in/gage-lara), my TTRPG creations on [Itch.io](https://metamageia.itch.io/), or check out some of my music on [Bandcamp](https://gagelara.bandcamp.com/). Check out [this page for more of my links](https://links.gagelara.com).
+Checkout my blog over at [Blog Metamageia](https://metamageia.github.io/blog-metamageia/), or browse the blog articles here in the vault at [[metamageia/articles/index|the blog index]].
+
+If you want to see some of these interests in action check out my projects on [GitHub](https://github.com/metamageia)and connect with me on [Linkedin](https://www.linkedin.com/in/gage-lara), my TTRPG creations on [Itch.io](https://metamageia.itch.io/), or check out some of my music on [Bandcamp](https://gagelara.bandcamp.com/).
 
 If you like any of the stuff I do, you can consider [buying me a coffee](https://buymeacoffee.com/metamageia).
 

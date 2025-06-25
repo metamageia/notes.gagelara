@@ -1,0 +1,76 @@
+name: Push to Quartz Vaults
+
+on: push
+
+jobs:
+  update-metamageia-vault-quartz:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Remove .obsidian and .github folders
+      run: rm -rf .obsidian .github
+
+    - name: Check file existence
+      id: check_files
+      uses: andstor/file-existence-action@v3
+      with:
+        files: "./index.md"
+
+    - name: File exists
+      if: steps.check_files.outputs.files_exists == 'true'
+      run: echo "index.md check passed!"
+
+    - name: File exists
+      if: steps.check_files.outputs.files_exists == 'false'
+      run: |
+        echo "index.md does not exist! Please provide an index.md file - aborting"
+        exit 1
+
+    - name: Pushes obsidan root folder
+      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_folder: './'
+        destination_repo: 'metamageia/The-Metamageia-Vault'
+        destination_folder: 'content'
+        destination_branch: 'main'
+        user_email: 'metamageia@gmail.com'
+        user_name: 'metamageia'
+        commit_msg: 'Update the Metamageia Quartz Website Content'
+  update-great-galactic-hunt-quartz:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Check file existence
+      id: check_files
+      uses: andstor/file-existence-action@v3
+      with:
+        files: "./TTRPGs/The-Great-Galactic-Hunt/index.md"
+
+    - name: File exists
+      if: steps.check_files.outputs.files_exists == 'true'
+      run: echo "index.md check passed!"
+
+    - name: File exists
+      if: steps.check_files.outputs.files_exists == 'false'
+      run: |
+        echo "index.md does not exist! Please provide an index.md file - aborting"
+        exit 1
+
+    - name: Pushes TGGH world folder
+      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_folder: './TTRPGs/The-Great-Galactic-Hunt/'
+        destination_repo: 'metamageia/The-Great-Galactic-Hunt'
+        destination_folder: 'content'
+        destination_branch: 'main'
+        user_email: 'metamageia@gmail.com'
+        user_name: 'metamageia'
+        commit_msg: 'Update the Great Galactic Hunt Quartz Website Content'
