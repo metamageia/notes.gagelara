@@ -11,10 +11,10 @@ If you enjoy any of the posts here and want to read some of my messier, disorgan
 ---
 
 # Recent Posts:
-- [[01 - Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
+- [[metamageia/post/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/index]]
 
 ---
 
 # Most Recent Post:
 
-![[01 - Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions]]
+![[metamageia/post/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/index]]
