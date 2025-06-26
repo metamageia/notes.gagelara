@@ -1,1 +1,0 @@
-Interleaving, meaning "to alternate between layers", and an approach to [[Studying]] which involves alternating between different topics during a study session rather than adhering to a single subject during an extended session of [[Blocked Practice]]. Interleaving has been shown to be more effective than the latter in supporting information retention. 

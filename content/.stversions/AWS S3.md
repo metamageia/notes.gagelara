@@ -1,1 +1,0 @@
-Standing for Simple Storage Service, S3 is a scalable object storage solution in the AWS cloud. 

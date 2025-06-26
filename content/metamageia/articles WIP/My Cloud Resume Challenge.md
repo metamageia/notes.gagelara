@@ -1,3 +1,4 @@
+- Created an IAM User and Account Alias
 - Created an [[AWS S3]] bucket, enabled static web hosting in the properties, and added a placeholder `index.html`
 - Created an [[AWS CloudFront]] distribution with my S3 Bucket as the origin. 
 	- Note: Do not enable the static website option, make sure the CloudFront distribution has a root object set 
@@ -13,7 +14,13 @@ Recap: Learned how to configure S3 Buckets and add content. Set up CloudFront di
 
 ---
 
-- Setup Terraform
+- Set up AWS CLI and Installed [[Terraform]] 
+- Initialized `infra.resume.gagelara`, created a basic `main.tf` that sets a budget and creates an S3 bucket. 
+- Connecting AWS to Github Actions
+	- Set Up an [[Open ID Connect (OIDC)]] Identity Provider in AWS
+	- Create a properly permissioned role in IAM
+- Created a terraform bootstrap with a [[AWS DynamoDB]] table & S3 bucket for 
+
 
 - Create Frontend Repo with AWS Secrets management and update s3 bucket with GitOps
 

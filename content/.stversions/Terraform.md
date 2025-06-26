@@ -1,1 +1,0 @@
-Terraform is a FOSS [[Infrastructure as Code (IaC)]] tool that allows users to define, provision, and manage infrastructure comments like virtual machines, networks, databases, DNS entries, [[Kubernetes]], and SaaS integrations using [[Declarative Configuration]] files rather than manual setup processes. 
