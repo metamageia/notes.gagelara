@@ -20,11 +20,13 @@ Recap: Learned how to configure S3 Buckets and add content. Set up CloudFront di
 	- Set Up an [[Open ID Connect (OIDC)]] Identity Provider in AWS
 	- Create a properly permissioned role in IAM
 - Created a terraform bootstrap with a [[AWS DynamoDB]] table & S3 bucket for 
+- Terraformed CloudFront and OAC
 
+---
 
+Todo
 - Create Frontend Repo with AWS Secrets management and update s3 bucket with GitOps
-
-
+- Terraform Route53 as a child host zone, 
 - JS Visitor Counter
 - Database to retrieve and update the database with dynamo db
 - create an API for DDB with AWS API Gateway and Lambda python functions, including tests
