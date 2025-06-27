@@ -22,6 +22,8 @@ Recap: Learned how to configure S3 Buckets and add content. Set up CloudFront di
 - Created a terraform bootstrap with a [[AWS DynamoDB]] table & S3 bucket for 
 - Terraformed CloudFront and OAC
 
+Recap: Managed to get pretty comfortable with the Terraform workflow and starting to learn HCL. Set up a basic GitOps workflow for deploying to AWS 
+
 ---
 
 Todo

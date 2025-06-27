@@ -8,5 +8,8 @@ Terraform is a source-available [[Infrastructure as Code (IaC)]] tool that allow
 - `terraform validate` will validate the code to ensure it's functional, checking for invalid or missing requirements 
 - `terraform plan` prints what'll be created, destroyed, or modified on deployment
 	- Add argument `-out <PATH>` to create a plan file
+	- IMPORTANT: The saved plan doesn't encrypt data like API keys, and should be encrypted if shared
 - `terraform apply` to apply what's planned
 	- Add argument `<PATH>` to apply from a create plan
+
+> Note: Any `terraform` command can use `-chdir=path/` to use configs in sub directories while still accessing files in the current directory, such as secrets. 
