@@ -26,8 +26,14 @@ Recap: Managed to get pretty comfortable with the Terraform workflow and startin
 
 ---
 
+- Refactored the resume.gagelara repo
+- developed the frontend
+- set up a gitops pipeline for updating the frontend content
+- separated infra and frontend workflows to maintain separation of concerns 
+
+---
+
 Todo
-- Create Frontend Repo with AWS Secrets management and update s3 bucket with GitOps
 - Terraform Route53 as a child host zone, 
 - JS Visitor Counter
 - Database to retrieve and update the database with dynamo db
