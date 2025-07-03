@@ -5,7 +5,7 @@ draft: false
 ---
 # The Cloud Resume Challenge
 
-![[diagram.png]]
+![diagram.png](diagram.png)
 
 For the last few months I've been pouring a lot of my free time into studying and portfolio projects as I work towards beginning a career in cloud engineering & DevOps. Today marks a major milestone, as I've completed the [Cloud Resume Challenge](https://cloudresumechallenge.dev/). You can view my resume at [gagelara.com](https://gagelara.com) and check out [the GitHub Repository here](https://github.com/metamageia/resume.gagelara). In this blog post I'll be talking a little bit about my experience with this project. 
 
