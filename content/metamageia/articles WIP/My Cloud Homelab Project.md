@@ -25,3 +25,13 @@ Day 2
 - Settup github workflow to use cachix
 - Trying [[comin]] instead of Colmena for a simpler pull-model approach
 	-   https://github.com/nlewo/comin?tab=readme-ov-file
+
+---
+
+- [[Kubernetes (K8s)|Kubernetes]] 
+
+Omnivore
+Jellyfin + Rclone
+Invidious? 
+Music
+PiHole

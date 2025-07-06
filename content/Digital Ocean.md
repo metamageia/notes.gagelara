@@ -1,0 +1,1 @@
+- In doctl, run `doctl compute image list` to get the numerical ID of images, including custom images 
