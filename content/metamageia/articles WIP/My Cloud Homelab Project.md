@@ -29,9 +29,14 @@ Day 2
 ---
 
 - [[Kubernetes (K8s)|Kubernetes]] 
+- [[Talos Linux]]
 
-Omnivore
+Omnivore or Wallabag
+Linkding
 Jellyfin + Rclone
 Invidious? 
 Music
-PiHole
+PiHole 
+
+---
+

@@ -1,0 +1,45 @@
+- Region
+	- Availability Domains
+		- Fault Domains
+
+- OCI IAM
+	- AuthZ - Who are you?
+	- AuthN - What can you do?
+	- Identity Domains
+		- Containers for users & groups with Policies
+	- Policies define Permissions
+		- Can be attached to compartments or tenancies
+		- Human-readable code with domains, verbs, resources, locations, conditions, etc.
+	- Oracle Cloud ID (OCID) Assigned to resources 
+	- Tenancy: Account
+		- Tenancy Admin: Whole Account
+		- OCI Admin: Manage specific group(s)
+	- Principals
+		- IAM Identities allowed to interact with OCI resources: IAM Users or Resource Principals
+- Compartments
+	- Used to group, isolate, and permission resources. 
+	- Resources can interact with those in other compartments, and be transferred them. 
+	- Region-Agnostic, Six levels of nesting, Quotas & Budgets 
+- Virtual Cloud Network (VCN)
+	- [[Virtual Private Cloud (VPC)]] 
+	- Address space with [[Classless Inter-Domain Routing (CIDR)|CIDR]] addressed [[Subnet]]s
+	- Internet Gateway for accessing public internet
+	- NAT Gateway to provide NAT as a service for one direction outbound communication
+	- Service Gateway for resources to access OCI Resources/Services securely 
+	- Dynamic Routing Gateway for securely connecting VCN and On-Prem environment. 
+	- Route Table: Set of rules for connecting CIDR Block and Rout Target 
+		- Longest Prefix Match: Most Specific destination takes priority 
+		- Network Peering
+			- Local Peering Gateway in the same Region
+			- Remote Peering with Dynamic Routing Gateway between regions 
+				- DRG v2 Can connect up to 300 VCNs. 
+	- Security List
+		- Firewall Rules applied to a Subnet: Either Stateful or Stateless 
+	- Network Security Groups 
+		- Only apply to a set of Virtual Network Interface Cards (VNIC) in a VCN
+	- Load Balancer
+		- Reverse Proxy 
+		- Provides High Availability and scalability
+		- Layer 7 [[OSI Model]] 
+	- Network Load Balaner
+		- OSI Layer 3/4 
