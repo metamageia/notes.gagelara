@@ -17,7 +17,7 @@ This post is less of a tutorial, and more of a short demonstration of a cool too
 
 In his video, Theo demonstrated how setting the browser's default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser's pop-up search bar. 
 
-![<iframe width="560" height="315" src="https://www.youtube.com/embed/_DnNzRaBWUU?si=mi5R4gHPBywYkHEW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://www.youtube.com/watch?v=_DnNzRaBWUU)
+![Theo's Video](https://www.youtube.com/watch?v=_DnNzRaBWUU)
 
 I also use Zen as my primary browser, so I played around with this for a while and found it extremely convenient myself. However, I quickly ran into an issue: I kept trying to open the search bar from apps other than my browser. To satisfy this desire to have access to Unduck from anywhere on my computer, I decided to hack together a simple solution that would get me that exact functionality. 
 
