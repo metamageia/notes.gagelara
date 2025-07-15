@@ -17,7 +17,7 @@ This post is less of a tutorial, and more of a short demonstration of a cool too
 
 In his video, Theo demonstrated how setting the browser's default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser's pop-up search bar. 
 
-![https://www.youtube.com/watch?v=_DnNzRaBWUU](https://www.youtube.com/watch?v=_DnNzRaBWUU)
+![{{< youtube "DnNzRaBWUU" >}}](https://www.youtube.com/watch?v=_DnNzRaBWUU)
 
 I also use Zen as my primary browser, so I played around with this for a while and found it extremely convenient myself. However, I quickly ran into an issue: I kept trying to open the search bar from apps other than my browser. To satisfy this desire to have access to Unduck from anywhere on my computer, I decided to hack together a simple solution that would get me that exact functionality. 
 
@@ -50,7 +50,7 @@ programs.niri.settings.binds = with config.lib.niri.actions; {
 
 The resulting behavior allowed me to use Fuzzel in two separate ways: One as an application launcher with `Mod+D` , and the other as a universal web search bar with `Mod+S`. 
 
-![[fuzzel.png]]
+![fuzzel.png](fuzzel.png)
 
 The default search engine is Google, and behaves ass if using the `!g` Bang. I can search `!ghr metamageia/nixos-personal` to immediately open my public NixOS configuration repository, or add `!t3` to the end of any query to immediately start an AI chat from my search - all of which have been incredibly convenient. 
 
