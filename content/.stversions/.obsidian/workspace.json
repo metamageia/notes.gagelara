@@ -11,32 +11,13 @@
             "id": "7c41905cb94499a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metamageia/post/Everything, Everywhere - Fuzzel as a Universal Search Bar/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "b3c86193dcbf7723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +179,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "b3c86193dcbf7723",
+  "active": "7c41905cb94499a6",
   "lastOpenFiles": [
+    "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/index.md",
     "metamageia/post/02 - The Cloud Resume Challenge/index.md",
     "daily/2025-07-15.md",
-    "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/index.md",
     "metamageia/post/02 - The Cloud Resume Challenge/diagram.png",
     "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/fuzzel.png",
     "system/templates/templates.blog.metadata.md",
