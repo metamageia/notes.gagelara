@@ -17,8 +17,6 @@ This post is less of a tutorial, and more of a short demonstration of a cool too
 
 In his video, Theo demonstrated how setting the browser's default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser's pop-up search bar. 
 
-![Theo's Video](https://www.youtube.com/watch?v=_DnNzRaBWUU)
-
 I also use Zen as my primary browser, so I played around with this for a while and found it extremely convenient myself. However, I quickly ran into an issue: I kept trying to open the search bar from apps other than my browser. To satisfy this desire to have access to Unduck from anywhere on my computer, I decided to hack together a simple solution that would get me that exact functionality. 
 
 My solution boils down to this script here:
@@ -52,6 +50,6 @@ The resulting behavior allowed me to use Fuzzel in two separate ways: One as an 
 
 ![fuzzel.png](fuzzel.png)
 
-The default search engine is Google, and behaves as if using the `!g` Bang. I can search `!ghr metamageia/nixos-personal` to immediately open my public NixOS configuration repository, or add `!t3` to the end of any query to immediately start an AI chat from my search - all of which have been incredibly convenient. 
+The default search engine is Google, and behaves ass if using the `!g` Bang. I can search `!ghr metamageia/nixos-personal` to immediately open my public NixOS configuration repository, or add `!t3` to the end of any query to immediately start an AI chat from my search - all of which have been incredibly convenient. 
 
 That's really all I wanted to talk about today, just a short post about a cool tool I've started using. If you found this interesting and wanted to chat feel free to reach out to me on [linkedin](https://www.linkedin.com/in/gage-lara/) or check out any of [my other links](https://links.gagelara.com)
