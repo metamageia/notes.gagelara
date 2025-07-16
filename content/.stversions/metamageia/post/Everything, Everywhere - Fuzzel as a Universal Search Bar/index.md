@@ -13,9 +13,11 @@ categories:
 description: How I turned Fuzzel into a universal web search engine available from anywhere on my computer.
 ---
 
-This post is less of a tutorial, and more of a short demonstration of a cool tool. This quick little project was inspired by [Theo Browne's video](https://www.youtube.com/watch?v=_DnNzRaBWUU) about his [custom search engine Unduck](https://soydev.link/unduck), which functions primarily as an alternative to [DuckDuckGo Bangs](https://duckduckgo.com/bangs) - a neat features that allows you to search countless different websites using one of ~13,562 different "Bangs" in your search. 
+This post is less of a tutorial, and more of a short demonstration of a cool tool. This quick little project was inspired by Theo Browne's video about his [custom search engine Unduck](https://soydev.link/unduck), which functions primarily as an alternative to [DuckDuckGo Bangs](https://duckduckgo.com/bangs) - a neat features that allows you to search countless different websites using one of ~13,562 different "Bangs" in your search. 
 
 In his video, Theo demonstrated how setting the browser's default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser's pop-up search bar. 
+
+![Theo's Video](https://www.youtube.com/watch?v=_DnNzRaBWUU)
 
 I also use Zen as my primary browser, so I played around with this for a while and found it extremely convenient myself. However, I quickly ran into an issue: I kept trying to open the search bar from apps other than my browser. To satisfy this desire to have access to Unduck from anywhere on my computer, I decided to hack together a simple solution that would get me that exact functionality. 
 
