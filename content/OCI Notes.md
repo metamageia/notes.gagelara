@@ -43,3 +43,57 @@
 		- Layer 7 [[OSI Model]] 
 	- Network Load Balaner
 		- OSI Layer 3/4 
+- OCI Compute
+	- Bare Metal and VMs for shared machines, Dedicated Host for fully personal
+	- Flexible Shapes *OCPUs an Memory are flexible* as opposed to "T-Shirt Sizing"
+	- Both AMD, Intel, and Ampere
+	- Preemptible VMs
+	- Instances
+		- A compute Host with VNIC within a subnet
+		- Boot Disk & Data in a block volume
+		- Transparent Live Migration between hosts without rebooting
+		- OCI Cloud Shell 
+	- Scaling
+		- Vertical - Change Instance Shape with downtime
+		- Horizontal - Autoscaling 
+			- Instance config
+			- Instance Pool - Operate as one unit
+				- Scaling Rules with limits 
+	- OKE - OCI Managed Kubernetes
+		- VMs Have Hypervisor, run with OS 
+		- Containers only run library / dependencies 
+		- [[Kubernetes (K8s)|Kubernetes]]
+	- OCI Container Instances
+		- Managed Docker / Container Service
+	- Oracle Functions
+		- Serverless Compute (like AWS Lambda) 
+		- Consumption based pricing 
+- Storage
+	- Local NVMe - Locally attached VM Storage
+	- Block Volume - Partitioned
+		- Persistent and Durable storage to a compute instance
+		- Tiers based on I/O: Lower, Balanced, High Performance, Ultra High - Auto Scaling available 
+		- Read/Write Sharable - share volume between instances
+		- Scale volume size
+		- Volume Groups for time consistent backups across volume 
+	- File Storage - Shared Across instances
+		- Hierarchical Collections - NFS and SMB
+		- Example Uses
+			- Oracles Applications
+			- Microservices and Containers
+		- 
+	- Object Storage - Objects accessed via web
+		- Unstructured Data, Regional, Public or Private 
+		- Object Name:Value w/ Metadata
+		- Namesppace
+		- Bucket: Flat Structure with Prefixes for simulated heirarchy
+		- Tiers
+			- Standard / Hot
+			- Infrequent Acces / Cool - Cheaper, But limitations
+			- Archival / Cold - Longterm
+			- Auto-Tiering - Auto-pricing based on traffic 
+			- Lifecycle management and versioning and encryption
+			- Accessed by HTTP API
+	- Migration Services
+		- Data Transfer Disk
+		- Data Transfer Appliance 
