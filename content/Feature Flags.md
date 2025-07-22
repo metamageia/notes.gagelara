@@ -1,0 +1,1 @@
+Also known as feature toggles, are if-statements in the codebase that allow features to be toggled. 

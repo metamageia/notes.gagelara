@@ -1,3 +1,5 @@
+Instructor: Rohit Rahi, Sr Director OCI Global Delivery 
+
 - Region
 	- Availability Domains
 		- Fault Domains
@@ -97,3 +99,26 @@
 	- Migration Services
 		- Data Transfer Disk
 		- Data Transfer Appliance 
+- Security
+	- Shared Security Model: Some Security is Admin Responsibility, some is Oracle's Responsibility 
+	- Security Stack Top to Bottom
+		- Detection and Remediation
+		- Data
+		- OS and Workload - VM/Instance
+		- IAM - User
+		- Protection - Infra
+	- Cloud Guard
+		- Target (Resource), Detectors, Problems, Responders
+		- Security as Code (SaC)
+		- Required for Security Zones Applied to Compartment. Policies on SZ Recipes 
+		- Security Advisor
+		- Configures Security Zone, Cloud Guard, Other Security Services
+	- Encryption
+		- [[Symmetric Encryption]] AES
+		- [[Asymmetric Encryption]] RSA
+		- [[Hardware Security Module (HSM)]] Physical Device for managing keys and providing cryptographic functions
+		- Vault (OCI)
+			- Manages Secrets
+			- Software Protection vs HSM Protection
+			- Envelop Encryption - Master Key > Data Key
+				- Allows for rotation and distribution of data keys without full re-encryption of data

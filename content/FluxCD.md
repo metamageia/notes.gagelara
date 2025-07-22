@@ -5,4 +5,4 @@ Flux is a tool for keeping [[Kubernetes]] clusters in sync with sources of confi
 ---
 [[DevOps]]
 [[GitOps]]
-[[Continuous Integration and Continuous Delivery (CI/CD)]]
+[[Continuous Integration and Continuous Delivery (CI&CD)]] 
