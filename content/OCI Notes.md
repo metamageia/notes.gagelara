@@ -122,3 +122,25 @@ Instructor: Rohit Rahi, Sr Director OCI Global Delivery
 			- Software Protection vs HSM Protection
 			- Envelop Encryption - Master Key > Data Key
 				- Allows for rotation and distribution of data keys without full re-encryption of data
+- Administration
+	- Pricing
+		- Pay as you Go
+			- Consumption Based
+			- Annual Universal Credits
+			- Monthly Universal
+			- Bring Your Own License 
+			- Factors: Size, Data Transfer (Incoming traffic free), Resource Type, etc
+			- Same Around the World
+		- Cost Management
+			- Budgets
+				- Thresholds and Alerts
+			- Cost Analysis
+			- Service Limits and Usage
+			- Compartment Quotas
+		- Cloud Advisor: Analyzes resources and provides recommendations for cost, performance, HA, and security
+		- Tagging: KV Pairs on resources for organization, cost management, access control
+			- Freeform Tags: Any KV Pair
+			- Defined Tags: Contained within namespace with a define schema a limited by policies 
+		- Support Rewards
+			- The more customers use OCI the less they pay for on-prem licenses and support costs 
+		- 
