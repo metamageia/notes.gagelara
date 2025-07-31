@@ -2,3 +2,5 @@
 .trash/
 */.stfolder/
 */.trash/
+/private/
+*/private/
