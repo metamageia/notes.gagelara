@@ -21,6 +21,15 @@ When using Nix Flakes, a topic that'll be expanded on later, a system rebuild ca
 The command `sudo nixos-rebuild switch --flake .` will build the system based on the file named flake.nix in the current directory.
 
 ```
+---
+
+### Remote Rebuild:
+`nixos-rebuild switch --flake .#auriga --target-host metamageia@auriga --sudo --ask-sudo-password`
+
+`nixos-rebuild switch --flake .#auriga --target-host root@auriga`
+
+`nixos-rebuild switch --flake .#beacon --target-host root@192.168.100.1`
+
 
 ---
 ## [[Nix Flakes]]
