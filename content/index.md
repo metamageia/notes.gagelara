@@ -1,5 +1,7 @@
 ---
 title: The Metamageia Vault
+aliases:
+  - Metamageia Vault Home
 ---
 ## The Metamageia Vault
 
