@@ -1,0 +1,14 @@
+- Grimoire is divided into Leaflets
+	- Each Leaflet is 4 pages
+		- Each page can hold up to 3 related Entries
+		- Each Entry is either a Journal, a Theory, or a Spell
+- End of Game
+	- If your Grimoire is filled, the book is bound and the game is over. 
+	- If your final leaflet is lost, the book is burned and the game is over
+- Needed Supplies
+	- Ten-sided die (d10) 
+	- Six-sided die (d6)
+	- Small pile of blank paper (printer paper, parchment, etc)
+		- Can be played digitally so long as you track separate pages & leaflets
+		- Can be played with loose-leaf sheets by keeping two stapled or clipped together
+- 

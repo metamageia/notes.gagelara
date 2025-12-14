@@ -1,5 +1,0 @@
-- Image Generation
-	- Krea ([Site](https://www.krea.ai)): Multimedia generative AI web app featuring image, video, and 3D modes as well as a novel realtime canvas mode and node-based workflow mode (similar to [[ComfyUI]]) 
-- Music Genration
-	- Suno [Site](https://suno.com/)
-	- Udio [Site](https://www.udio.com/)
