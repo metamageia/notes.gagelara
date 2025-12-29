@@ -1,0 +1,68 @@
+{
+  "title": "Altius",
+  "zoom": 1,
+  "offset": {
+    "x": 31,
+    "y": 184
+  },
+  "hexes": [],
+  "hexNotes": {
+    "4,2": {
+      "notePath": "TTRPGs/hexmaps/Altius/The Keep.md"
+    },
+    "5,1": {
+      "notePath": "TTRPGs/hexmaps/Altius/Hex 5,1.md"
+    }
+  },
+  "hexLabels": {
+    "4,2": "🏰"
+  },
+  "hexLabels2": {
+    "4,2": "The Keep"
+  },
+  "hexRivers": {
+    "8,0": [
+      1
+    ]
+  },
+  "hexRoads": {
+    "8,0": [
+      2
+    ]
+  },
+  "coloredHexes": {
+    "4,2": "#66cc83",
+    "4,3": "#827cda",
+    "5,2": "#ababab",
+    "5,1": "#827cda",
+    "4,1": "#827cda",
+    "3,2": "#827cda",
+    "3,3": "#827cda",
+    "6,0": "#ababab",
+    "6,1": "#ababab",
+    "13,-1": "#bd9999"
+  },
+  "showCoordinates": true,
+  "showLabel1": true,
+  "showLabel2": true,
+  "tokens": [
+    {
+      "id": "dc7c61ac-af58-4c6d-b019-14d268dc6807",
+      "x": 360,
+      "y": 155.88457268119896,
+      "color": "#ff0000"
+    },
+    {
+      "id": "729cb9b6-7e28-482a-84c4-22a92af65cd2",
+      "x": 225,
+      "y": 129.90381056766577,
+      "color": "#ff0000"
+    }
+  ],
+  "tokenColors": {
+    "dc7c61ac-af58-4c6d-b019-14d268dc6807": "#cfc9c9"
+  },
+  "tokenLabels": {
+    "dc7c61ac-af58-4c6d-b019-14d268dc6807": "Party"
+  }
+}
