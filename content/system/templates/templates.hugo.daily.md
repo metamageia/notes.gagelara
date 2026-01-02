@@ -1,5 +1,8 @@
 ---
-title: {{title}}
-date: {{title}}
+title:
+  "{ title }":
+date:
+  "{ title }":
 draft: false
+meditation:
 ---
