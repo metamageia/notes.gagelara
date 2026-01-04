@@ -5,3 +5,5 @@
 /private/
 */private/
 *.sync-conflict*
+CLAUDE.md
+/claude/
