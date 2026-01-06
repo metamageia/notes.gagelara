@@ -1,3 +1,5 @@
+- 2026-01-05T1842 · [[2026-01-05]]
+- 2026-01-05T1002 · [[changelog.sync-conflict-20260105-154027-UVRIGUQ]]
 - 2026-01-04T1856 · [[2026-01-04]]
 - 2026-01-03T2130 · [[2026-01-03]]
 - 2026-01-03T0622 · [[2026-01-02]]
@@ -146,5 +148,3 @@
 - 2025-06-19T1307 · [[template.review.dream]]
 - 2025-06-19T1307 · [[template.review.daily]]
 - 2025-06-19T1307 · [[template.personal.contacts]]
-- 2025-06-19T1307 · [[Table Template]]
-- 2025-06-19T1307 · [[Dungeon Tables Prototype v2]]
