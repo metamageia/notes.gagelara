@@ -18,3 +18,4 @@ First, here is a long list of [Hexcrawl resources](https://arsphantasia.wordpres
 Additionally:
 - [Hex Generator](http://welshpiper.com/hex-based-campaign-design-part-1/) for creating blank hex grids. 
 - [How to Hex crawl video with great info](https://www.youtube.com/watch?v=eC-h1haFSIA)
+- [Wilderness Hexplore](https://dn720001.ca.archive.org/0/items/wilderness-hexplore-revised/Wilderness_Hexplore_revised_112913_us.pdf) is basically my hexcrawl bible
