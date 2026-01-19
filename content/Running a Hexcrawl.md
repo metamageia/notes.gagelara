@@ -16,6 +16,6 @@ One of the most popular examples of a Hexcrawl is a campaign known as "The West 
 First, here is a long list of [Hexcrawl resources](https://arsphantasia.wordpress.com/2014/02/20/hexcrawl-resources/) from the blog Ars Phantasia to comb through.
 
 Additionally:
-- [Hex Generator](http://welshpiper.com/hex-based-campaign-design-part-1/) for creating blank hex grids. 
+- [Hex Generator](https://hexgridgenerator.github.io/) for creating blank hex grids. 
 - [How to Hex crawl video with great info](https://www.youtube.com/watch?v=eC-h1haFSIA)
 - [Wilderness Hexplore](https://dn720001.ca.archive.org/0/items/wilderness-hexplore-revised/Wilderness_Hexplore_revised_112913_us.pdf) is basically my hexcrawl bible

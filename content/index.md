@@ -17,31 +17,45 @@ If you like any of the stuff I do, you can consider [buying me a coffee](https:/
 ## Where to start?
 
 Feel free to explore whatever notes look interesting to you, or check out one of these topics as a starting point:
-#### Game Design
-- [[Game Design]]
-- [[Tips for Creative Game Design]]
-	- [[Atomizing and Abstracting Game Mechanics]]
-	- [[Creativity Through Context Replacement]]
-	- [[Creative Mashups]]
-	- [[Combining Top Down and Bottom Up Design]]
+### Game Design
+- [[Game Design]] - hub note
+- [[Atomizing and Abstracting Game Mechanics]]
 - [[Game Design Patterns]]
-#### PKM, Productivity, and Creativity
+- [[Ludonarrative Consonance and Dissonance]]
+- [[Roles (Design Pattern)]] / [[Skills (Design Pattern)]]
+
+### Tabletop RPGs
+- [[Table Top Role Playing Games (TTRPGs)]]
+	- [[Running a Hexcrawl]]
+	- [[Dungeon Design]]
+	- [[Solo Journaling Games]]
+	- [[MOSAIC Strict]]
+
+### Knowledge Management & Reading
 - [[Personal Knowledge Management (PKM)]]
-	- [[PKMashup Notes|PKMashup]]
+- [[The Four Levels of Reading]]
+- [[Zettlekasten]]
 - [[Spaced Repetition]]
-	- [[Incremental Writing]]
-	- [[Programmable Attention]]
-	- [[Programmable Identity]]
-- [[Habits]]
 - [[Morphological Analysis]]
-#### Technology
-- [[Free and Open Source Software (FOSS)]]
-- [[NixOS]] 
+
+### Habits & Productivity
+- [[Habits]]
+	- [[Laws of Habit Modification]]
+- [[My Analog Productivity and PKM System]]
+
+### Philosophy
+- [[Process Philosophy]]
+- [[Phenomenology]]
+- [[Intentionality]]
+- [[Hypersigils]]
+- [[Astrology]] 
+### Technology
+- [[NixOS]]
 - [[Docker]]
+- [[Kubernetes (K8s)]]
+- [[Infrastructure as Code (IaC)]]
 - [[Obsidian]]
-	- [[Obsidian Plugins|Obsidian Plugin]]
-	- [[Quartz]]
-- [[Reaper]]
+- [[Quartz]]
 ---
 ## How was this set up?
 
