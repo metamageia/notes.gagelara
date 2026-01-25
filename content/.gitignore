@@ -7,3 +7,6 @@
 *.sync-conflict*
 CLAUDE.md
 /claude/
+.claude
+system/changelog.md
+.archive
